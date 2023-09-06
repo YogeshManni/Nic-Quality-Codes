@@ -7,7 +7,7 @@
 
 ## Quality Code Articles
 
-  #### Article 1: What is Code Quality & why is it Important
+  ### Article 1: What is Code Quality & why is it Important
 
  **URL** - https://www.codegrip.tech/productivity/what-is-code-quality-why-is-it-important/#:~:text=A%20quality%20code%20is%20one,been%20in%20talks%20since%201970.
  - [x] Code quality is a fundamental aspect of software development.
@@ -27,7 +27,7 @@
  - [x] Code quality can be improved using tools like CodeGrip, which streamline code analysis, error detection, and resolution.
  - [x] Automated code review tools, like CodeGrip, are essential for maintaining software quality in the long term.
 
-#### Article 2: What Is Code Quality? Overview + How to Improve Code Quality
+### Article 2: What Is Code Quality? Overview + How to Improve Code Quality
 
  **URL** - https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality
  - [x]  Code quality is subjective and context-dependent, varying among different development teams.
@@ -41,7 +41,7 @@
 - [x]  Code quality tools like static analyzers (e.g., Helix QAC and Klocwork) play a crucial role in ensuring high-quality code.
 - [x]  Monitoring key quality metrics, such as cyclomatic complexity, helps maintain code quality over time.
 
-#### Article 3: Code Quality: What It Is and How To Measure It (With Tips)
+### Article 3: Code Quality: What It Is and How To Measure It (With Tips)
 
  **URL** - https://www.indeed.com/career-advice/career-development/what-is-code-quality
 - [x] Code quality measures the value of code in terms of consistency, functionality, and ease of understanding.
@@ -64,7 +64,7 @@
  - [x] Periodically improve old code to keep it up to date and efficient.
 
 
-#### Article 4: Clean Code in PHP: Best Practices and Principles
+### Article 4: Clean Code in PHP: Best Practices and Principles
 
  **URL** - https://shorturl.at/ghzJV
  
@@ -106,6 +106,60 @@
 
  - [x] Use comments and PHPDoc blocks to explain complex logic.
  - [x] Focus on explaining why something is done rather than what is done.
+
+### Best points from the above articles
+
+**Code Readability:**
+
+- [x] Use meaningful variable and function names.
+- [x] Maintain proper indentation and formatting.
+- [x] Align code with coding standards or style guides.
+- [x] Focus on clean and easy-to-understand code.
+
+**Code Organization (Modularity):**
+
+- [x] Break code into smaller, independent modules or functions.
+- [x] Each module should have a single responsibility.
+- [x] Avoid redundant code (DRY principle).
+- [x] Promote code reusability.
+
+**Code Efficiency:**
+
+- [x] Consider code performance and resource utilization.
+- [x] Avoid premature optimization.
+- [x] Use appropriate data structures and algorithms.
+- [x] Optimize code only when a proven bottleneck exists.
+
+**Error Handling:**
+
+- [x] Validate inputs and handle exceptions properly.
+- [x] Provide meaningful error messages.
+- [x] Handle errors gracefully to prevent crashes.
+
+**Testing:**
+
+- [x] Design code for easy unit testing.
+- [x] Create functions and classes with clear inputs and outputs.
+- [x] Use automated testing tools and frameworks.
+- [x] Ensure that each piece of code does one thing well.
+
+**Documentation:**
+
+ - [x] Use comments and PHPDoc blocks to explain complex logic.
+ - [x] Focus on explaining why something is done rather than what is done.
+ - [x] Document classes, methods, and variables.
+ - [x] Maintain documentation as code evolves.
+
+**Follow Coding Standards:**
+
+- [x] Adhere to a coding standard or style guide (e.g., PSR-2).
+- [x] Ensure consistent code formatting.
+- [x] Enforce coding standards using static code analyzers.
+
+**Code Quality Metrics:**
+
+- [x] Measure code quality using metrics like reliability, maintainability, testability, portability, and reusability.
+- [x] Use tools like static analyzers to identify defects and maintain code quality metrics.
 
 
   
