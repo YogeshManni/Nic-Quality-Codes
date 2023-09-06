@@ -27,5 +27,20 @@
  - [x] Code quality can be improved using tools like CodeGrip, which streamline code analysis, error detection, and resolution.
  - [x] Automated code review tools, like CodeGrip, are essential for maintaining software quality in the long term.
 
+#### Article 2: What Is Code Quality? Overview + How to Improve Code Quality
+
+ **URL** - https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality
+ - [x]  Code quality is subjective and context-dependent, varying among different development teams.
+- [x]  High-quality code is clean, follows a consistent style, is easy to understand, well-documented, and testable.
+- [x]  Manual code reviews and testing have limitations in finding all code errors.
+- [x]  Poor code quality can introduce safety and security risks in software.
+- [x]  Quality is everyone's responsibility in the development process.
+- [x]  Code quality can be measured using various metrics, including reliability, maintainability, testability, portability, and reusability.
+- [x]  Defect and complexity metrics are essential for measuring overall code quality.
+- [x]  Improving code quality involves using coding standards, analyzing code early, following code review best practices, and refactoring legacy code when necessary.
+- [x]  Code quality tools like static analyzers (e.g., Helix QAC and Klocwork) play a crucial role in ensuring high-quality code.
+- [x]  Monitoring key quality metrics, such as cyclomatic complexity, helps maintain code quality over time.
+
+
   
 
