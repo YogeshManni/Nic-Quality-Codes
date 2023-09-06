@@ -162,5 +162,8 @@
 - [x] Use tools like static analyzers to identify defects and maintain code quality metrics.
 
 
+### Self Evaluation
+
+ - I would give myself a score of 4, I went through some of the articles and incorporated the best points I liked about them and learned about best code practices and standards that should be used to develop a clean and maintainable code.
   
 
