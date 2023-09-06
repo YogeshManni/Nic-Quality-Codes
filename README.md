@@ -41,6 +41,28 @@
 - [x]  Code quality tools like static analyzers (e.g., Helix QAC and Klocwork) play a crucial role in ensuring high-quality code.
 - [x]  Monitoring key quality metrics, such as cyclomatic complexity, helps maintain code quality over time.
 
+#### Article 3: Code Quality: What It Is and How To Measure It (With Tips)
+
+ **URL** - https://www.indeed.com/career-advice/career-development/what-is-code-quality
+- [x] Code quality measures the value of code in terms of consistency, functionality, and ease of understanding.
+ - [x] High-quality code is functional, consistent, easy to understand, meets client needs, testable, reusable, bug-free, secure, and well-documented.
+ - [x] Code quality is crucial for enhancing the end user's experience and ensuring software safety and reliability.
+
+ - [x] Code quality can be measured by reliability, complexity, portability, reusability, and testability.
+ - [x] Reliability measures a program's ability to function without failure over time.
+ - [x] Complexity is assessed using metrics like cyclomatic complexity, where lower complexity indicates higher quality.
+ - [x] Portability examines how well code can be used in different environments.
+ - [x] Reusability measures whether code can be repurposed for other projects.
+ - [x] Testability evaluates how well the code supports testing efforts.
+
+  **Tips for Improving Code Quality:**
+
+ - [x] Follow coding best practices, including adhering to coding standards and guidelines.
+ - [x] Simplify complex code to make it easier to read and maintain.
+ - [x] Consider using code-checking tools to automatically suggest improvements.
+ - [x] Align code with common coding techniques to enhance reusability and maintainability.
+ - [x] Periodically improve old code to keep it up to date and efficient.
+
 
   
 
